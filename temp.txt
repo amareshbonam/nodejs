@@ -1,2 +1,0 @@
-hello world this is amaresh
-this is file example in nodejs
